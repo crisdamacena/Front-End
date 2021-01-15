@@ -1,0 +1,22 @@
+/*padrões e tamanho de fonte para design responsivo*/
+
+@media (min-width: 500px) {
+  html {
+    font-size: 1.25em;
+  }
+}
+@media (min-width: 800px) {
+  html {
+    font-size: 1.5em;
+  }
+}
+@media (min-width: 1000px) {
+  html {
+    font-size: 1.75em;
+  }
+}
+@media (min-width: 1200px) {
+  html {
+    font-size: 2em;
+  }
+}
